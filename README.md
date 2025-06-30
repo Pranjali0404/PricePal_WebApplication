@@ -1,2 +1,2 @@
 # PricePal_WebApplication
-6th sem Mini Project
+Price comparison of product across different online platform
